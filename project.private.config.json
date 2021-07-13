@@ -1,0 +1,89 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/identity/index",
+          "pathName": "pages/identity/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/post/index",
+          "pathName": "pages/post/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/post/index",
+          "pathName": "pages/post/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/index",
+          "pathName": "pages/user/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/shop/index",
+          "pathName": "pages/shop/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/identity/index",
+          "pathName": "pages/identity/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/pageD/myPost/index",
+          "pathName": "pages/pageD/myPost/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/pageB/shoppingCart/index",
+          "pathName": "pages/pageB/shoppingCart/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/identity/index",
+          "pathName": "pages/identity/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/identity/index",
+          "pathName": "pages/identity/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mall/index",
+          "pathName": "pages/mall/index",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

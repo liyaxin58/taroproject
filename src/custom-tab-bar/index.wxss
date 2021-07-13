@@ -1,0 +1,30 @@
+.tab-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #FFFFFF;
+  box-shadow: 0px -4px 7px 0px rgba(174,174,174,0.5);
+  border-top-left-radius: 23px;
+  border-top-right-radius: 23px;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.tab-bar-container {
+  display: flex;
+  align-items: center;
+  height: 46px;
+}
+
+.tab-bar-item {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-bar-item cover-image {
+  width: 27px;
+  height: 27px;
+}
